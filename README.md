@@ -100,7 +100,7 @@ Key analyses include:
 
 ## ✅ Credits
 
-- Project by [Your Name]
+- Project by Vivek Sanyu Yarra
 - Guided by: Google Data Analytics Professional Certificate Capstone
 
 ---
