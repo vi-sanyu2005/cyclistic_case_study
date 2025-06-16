@@ -105,8 +105,4 @@ Key analyses include:
 
 ---
 
-## 📬 Contact
 
-For questions or collaboration:  
-📧 your.email@example.com  
-📍 [LinkedIn](https://linkedin.com/in/your-profile)
